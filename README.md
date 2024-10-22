@@ -58,6 +58,10 @@ This project is a 3D model viewer built using **Three.js**, which loads and disp
 
 
 
+https://github.com/user-attachments/assets/9251fb00-e20e-442d-b521-605cd49cb34f
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
