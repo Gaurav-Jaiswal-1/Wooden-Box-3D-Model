@@ -22,7 +22,7 @@ This project is a 3D model viewer built using **Three.js**, which loads and disp
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/3d-model-viewer.git
+    https://github.com/Gaurav-Jaiswal-1/Wooden-Box-Using-ThreeJS-.git
     ```
 
 2. **Install Dependencies**: (If you're using a bundler like Webpack or any package manager like npm/yarn)
